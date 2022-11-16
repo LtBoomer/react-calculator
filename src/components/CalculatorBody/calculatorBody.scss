@@ -1,0 +1,11 @@
+.calculator-wrapper{
+    width: 400px;
+    height: 75vh;
+    border-radius: 30px;
+    overflow: hidden;
+    .calculator-color-theme-wrapper{
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+    }
+}
